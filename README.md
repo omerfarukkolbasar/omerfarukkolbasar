@@ -1,6 +1,13 @@
-<!-- Üstte hoş bir GIF -->
+<!-- Üst Header - eski tarz, güzel animasyonlu -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=200&section=header&text=Ömer%20Faruk%20Kolbasar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- Dil Seçim Butonu -->
+<p align="center" style="margin-top:-40px; margin-bottom:20px;">
+  <button onclick="alert('Türkçe/English toggling can be implemented here!')" style="background:#8000ff; border:none; padding:8px 16px; color:white; border-radius:6px; cursor:pointer; font-weight:bold;">
+    🌐 Dil Seç / Language
+  </button>
 </p>
 
 # 🚀 Merhaba, ben Ömer Faruk Kolbasar
@@ -13,8 +20,8 @@ Yazılım, gömülü sistemler, drone kodlama, robotik ve yapay zeka alanlarınd
 ---
 
 ## 🛠 Bildiğim Diller & Teknolojiler
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,javascript,react,aspnet,csharp,c,python,html,css,nodejs" />
+<p align="center" style="gap:8px; display:flex; flex-wrap:wrap; justify-content:center; max-width:600px; margin:auto;">
+  <img src="https://skillicons.dev/icons?i=php,javascript,react,flutter,aspnet,csharp,c,python,html,css,nodejs" alt="Tech Icons" style="height:40px" />
 </p>
 
 💡 Ayrıca gömülü sistemler, dronelar ve yapay zeka programlama konusunda da aktif çalışıyorum.  
@@ -32,32 +39,40 @@ Yazılım, gömülü sistemler, drone kodlama, robotik ve yapay zeka alanlarınd
 
 ## 📈 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&layout=compact&theme=radical" height="165" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omerfarukkolbasar&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-## 🌍 Sosyal & İletişim
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <a href="https://instagram.com/ofkcoolbsr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/users/1067135718473863228"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://github.com/omerfarukkolbasar"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:contact@teymensel.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=omerfarukkolbasar&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🎧 Şu An Dinlediklerim / Discord Durumum
 
-<p align="center">
+<p align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
   <img width="48%" src="https://spotify-readme-badge.vercel.app/api/now-playing?background_color=2a005f&color=white&spotify_user=qjh03m8gedbwwfb25xaab6tv4" alt="Spotify Now Playing" />
-  <a href="https://discord.com/users/1067135718473863228"><img src="https://lanyard.cnrad.dev/api/1067135718473863228?theme=dark&borderRadius=15px" alt="Discord Presence" width="48%" /></a>
+  <a href="https://discord.com/users/1067135718473863228" target="_blank" rel="noopener">
+    <img src="https://lanyard.cnrad.dev/api/1067135718473863228?theme=dark&borderRadius=15px" alt="Discord Presence" width="48%" />
+  </a>
 </p>
 
+### 🎮 Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/1067135718473863228)](https://discord.com/users/1067135718473863228)
+---
+
+> “Öğrenmekten vazgeçmem, kodlamaktan asla yorulmam.”  
+>  
+> — Ömer Faruk Kolbasar  
+<br />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=120&section=footer" />
   <br/>
   <sub>Made with ❤️ by Ömer Faruk Kolbasar</sub>
 </p>
