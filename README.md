@@ -131,10 +131,7 @@ Sakarya merkezli **Full Stack Developer**, amatör telsiz operatörü (**TB2ASJ*
 
 ---
 
-### 🎮 Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/1029431477219360869)](https://discord.com/users/1067135718473863228)
 
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8000ff&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!" alt="Footer"/>
