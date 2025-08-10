@@ -6,8 +6,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omerfarukkolbasar&color=8000ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/omerfarukkolbasar?color=8000ff&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/omerfarukkolbasar?color=8000ff&style=flat-square" alt="Stars" />
 </div>
 
 ---
