@@ -60,9 +60,9 @@ I work in software development, drone programming, artificial intelligence, and 
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=tokyonight&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&theme=tokyonight&hide_border=true&layout=compact&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -70,7 +70,7 @@ I work in software development, drone programming, artificial intelligence, and 
 ## 📊 Contribution Activity
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerfarukkolbasar&bg_color=0d1117&color=8000ff&line=8000ff&point=ff6b6b&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerfarukkolbasar&bg_color=0d1117&color=1E90FF&line=1E90FF&point=3399FF&area=true&hide_border=true" />
 </div>
 
 ---
