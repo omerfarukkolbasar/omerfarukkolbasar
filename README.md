@@ -53,15 +53,6 @@ Yazılım, gömülü sistemler, drone kodlama, robotik ve yapay zeka alanlarınd
 
 ---
 
-## 🎧 Şu An Dinlediklerim / Discord Durumum
-
-<p align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-  <img width="48%" src="https://spotify-readme-badge.vercel.app/api/now-playing?background_color=2a005f&color=white&spotify_user=qjh03m8gedbwwfb25xaab6tv4" alt="Spotify Now Playing" />
-  <a href="https://discord.com/users/1067135718473863228" target="_blank" rel="noopener">
-    <img src="https://lanyard.cnrad.dev/api/1067135718473863228?theme=dark&borderRadius=15px" alt="Discord Presence" width="48%" />
-  </a>
-</p>
-
 ### 🎮 Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/1067135718473863228)](https://discord.com/users/1067135718473863228)
 ---
