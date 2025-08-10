@@ -74,25 +74,6 @@ I work in software development, drone programming, artificial intelligence, and 
 
 ---
 
-## 🌐 Links
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.instagram.com/ofkcoolbsr" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:contact@teymensel.com" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.com/users/1067135718473863228" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://flexable.teymensel.com" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Flexable-8000FF?style=for-the-badge&logo=link&logoColor=white" alt="Flexable"/>
-  </a>
-</div>
-
----
-
 ### 🎮 Discord Status
 <p align="center" style="margin-top: 20px;">
   <a href="https://discord.com/users/1067135718473863228">
