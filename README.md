@@ -58,24 +58,11 @@ Yazılım geliştirme, drone programlama, yapay zeka ve gömülü sistemler alan
 
 ---
 
-## 📈 GitHub İstatistikleri
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
-<div align="center" style="margin-top: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8000ff&icon_color=8000ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=8000ff&text_color=c9d1d9" style="margin-left: 20px;"/>
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfarukkolbasar&theme=radical&hide_border=true&background=0d1117&stroke=8000ff&ring=8000ff&fire=ff6b6b&currStreakLabel=8000ff" />
-</div>
-
----
-
-## 🏆 GitHub Başarıları
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=omerfarukkolbasar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
 
 ---
 
