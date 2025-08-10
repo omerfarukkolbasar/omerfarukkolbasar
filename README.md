@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
 <p align="center" style="font-style: italic; color: #666;">
-Sakarya merkezli <strong>Full Stack Developer</strong>, amatör telsiz operatörü (<code>TB2ASJ</code>) ve teknoloji tutkunu.<br/>
-Yazılım geliştirme, drone programlama, yapay zeka ve gömülü sistemler alanlarında çalışıyorum.
+Full Stack Developer based in Sakarya, amateur radio operator (<code>TB2ASJ</code>), and technology enthusiast.<br/>
+I work in software development, drone programming, artificial intelligence, and embedded systems.
 </p>
 
 <blockquote align="center" style="font-size: 1.1em; color: #8000ff; border-left: 4px solid #8000ff; padding-left: 10px; margin: 20px auto; max-width: 600px;">
-  "Bugünün hayallerini yarının teknolojisine dönüştürüyorum."
+  "Turning today's dreams into tomorrow's technology."
 </blockquote>
 
 ---
@@ -63,10 +63,9 @@ Yazılım geliştirme, drone programlama, yapay zeka ve gömülü sistemler alan
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
-
 ---
 
-## 📊 Katkı Aktivitesi
+## 📊 Contribution Activity
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerfarukkolbasar&bg_color=0d1117&color=8000ff&line=8000ff&point=ff6b6b&area=true&hide_border=true" />
@@ -74,7 +73,7 @@ Yazılım geliştirme, drone programlama, yapay zeka ve gömülü sistemler alan
 
 ---
 
-## 🌐 Bağlantılar
+## 🌐 Links
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.instagram.com/ofkcoolbsr" target="_blank" style="margin: 0 8px;">
@@ -103,5 +102,5 @@ Yazılım geliştirme, drone programlama, yapay zeka ve gömülü sistemler alan
 ---
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8000ff&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8000ff&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!" alt="Footer" />
 </div>
