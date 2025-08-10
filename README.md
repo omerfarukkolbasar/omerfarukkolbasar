@@ -57,7 +57,7 @@ Sakarya merkezli **Full Stack Developer**, amatör telsiz operatörü (**TB2ASJ*
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 <a href="https://teymensel.com" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/code_7838457?term=web&page=2&position=86&origin=search&related_id=7838457" width="40px">
+    <img src="https://images.icon-icons.com/2550/PNG/512/link_icon_152591.png" width="40px">
 </a>
 
 ---
@@ -133,8 +133,4 @@ Sakarya merkezli **Full Stack Developer**, amatör telsiz operatörü (**TB2ASJ*
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8000ff&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!" alt="Footer"/>
-</div>
-
-<div align="center">
-  <sub>⭐ Bu repo'yu beğendiyseniz yıldızlamayı unutmayın!</sub>
 </div>
