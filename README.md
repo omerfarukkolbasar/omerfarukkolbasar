@@ -46,28 +46,19 @@ Sakarya merkezli **Full Stack Developer**, amatör telsiz operatörü (**TB2ASJ*
 
 ---
 
-## 🎯 İlgi Alanları
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Robotics-Dark.svg" width="50" height="50"/>
-<br><strong>Robotik & Drone</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2972/2972531.png" width="50" height="50"/>
-<br><strong>Amateur Radio</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="50" height="50"/>
-<br><strong>AI & ML</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="50" height="50"/>
-<br><strong>Cloud Systems</strong>
-</td>
-</tr>
-</table>
+<h2></h2>
+
+### 🌐 Connect With Me
+<a href="https://www.instagram.com/ofkcoolbsr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40px">
+</a>
+<a href="https://discord.com/users/1067135718473863228" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
+</a>
+<a href="https://teymensel.comr" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40px">
+</a>
 
 ---
 
