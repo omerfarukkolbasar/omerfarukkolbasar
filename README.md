@@ -131,11 +131,8 @@ Sakarya merkezli **Full Stack Developer**, amatör telsiz operatörü (**TB2ASJ*
 
 ---
 
-## 🎵 Şu An Dinlediğim
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26pvkznxkzred5p4hbvthpq3a&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8000ff&bar_color_cover=false"/>
-</div>
+### 🎮 Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/1029431477219360869)](https://discord.com/users/1029431477219360869)
 
 ---
 
