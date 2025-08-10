@@ -57,7 +57,7 @@ Sakarya merkezli **Full Stack Developer**, amatör telsiz operatörü (**TB2ASJ*
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 <a href="https://teymensel.com" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBoa9pCa5ZTpV0k5-p5BUGMZqCcxS0MrKavQ&s" width="40px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CeiCyZp24TkP6TTxgOt8cFG5mUQ4fBxjHQ&s" width="40px">
 </a>
 
 ---
