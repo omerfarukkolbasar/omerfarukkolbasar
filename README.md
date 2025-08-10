@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-<p style="font-style: italic; color: #666;">
+<p align="center" style="font-style: italic; color: #666;">
 Full Stack Developer based in Sakarya, amateur radio operator (<code>TB2ASJ</code>), and technology enthusiast.<br/>
 I work in software development, drone programming, artificial intelligence, and embedded systems.
 </p>
 
-<blockquote align="center" style="font-size: 1.1em; color: #8000ff; border-left: 4px solid #8000ff; padding-left: 10px; margin: 20px auto; max-width: 600px;">
+<blockquote  style="font-size: 1.1em; color: #8000ff; border-left: 4px solid #8000ff; padding-left: 10px; margin: 20px auto; max-width: 600px;">
   "Turning today's dreams into tomorrow's technology."
 </blockquote>
 
