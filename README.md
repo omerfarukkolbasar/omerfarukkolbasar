@@ -93,16 +93,6 @@ Yazılım geliştirme, drone programlama, yapay zeka ve gömülü sistemler alan
 
 ---
 
-## 💡 Favori Projelerim
-
-<div align="center" style="margin-top: 25px;">
-  <a href="https://github.com/omerfarukkolbasar/flexable">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omerfarukkolbasar&repo=flexable&theme=radical&hide_border=true&bg_color=0d1117&title_color=8000ff&text_color=c9d1d9" />
-  </a>
-</div>
-
----
-
 ### 🎮 Discord Status
 <p align="center" style="margin-top: 20px;">
   <a href="https://discord.com/users/1067135718473863228">
