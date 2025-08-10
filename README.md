@@ -20,9 +20,13 @@ Sakarya merkezli **Full Stack Developer**, amatör telsiz operatörü (**TB2ASJ*
 
 ### 💻 Tech Stack
 <div>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svelte,vite" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,elysia,express,electron,postgres" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,php,cs,cpp,python,java,javascript,react,nodejs,html,css" alt="languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,git" alt="devops" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,opencv,matlab,tensorflow,pytorch" alt="robotics-ml" />
+</p>
 </div>
 
 <h2></h2>
