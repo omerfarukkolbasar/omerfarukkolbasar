@@ -1,101 +1,148 @@
-<!-- Header animasyonlu -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=8000ff&center=true&vCenter=true&width=600&lines=%C3%96MER+FARUK+KOLBASAR" alt="Ömer Faruk Kolbasar" />
-</p>
+# 💫 Ömer Faruk Kolbasar
 
-<!-- Dil butonu -->
-<p align="center" style="margin-top:-30px; margin-bottom:20px;">
-  <button onclick="alert('GitHub README\'de dil seçimi desteklenmiyor, kendi projende JS ile yapabilirsin.')" style="background:#8000ff; border:none; padding:10px 18px; color:white; border-radius:8px; cursor:pointer; font-weight:bold; font-size:14px;">
-    🌐 Dil Seç / Language
-  </button>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=8000ff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Enthusiast;Amateur+Radio+%7C+TB2ASJ" alt="Typing SVG" />
+</div>
 
-# 🚀 Merhaba, ben Ömer Faruk Kolbasar
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omerfarukkolbasar&color=8000ff&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/omerfarukkolbasar?color=8000ff&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/omerfarukkolbasar?color=8000ff&style=flat-square" alt="Stars" />
+</div>
 
-> “Bugünün hayallerini yarının teknolojisine dönüştürüyorum.”  
+---
 
-Sakarya merkezli full stack geliştirici, amatör telsiz operatörü (Callsign: **TB2ASJ**), girişimci ve teknoloji tutkunu.  
-Yazılım, drone kodlama, yapay zeka ve gömülü sistemlerde çalışıyorum.
+## 🚀 Hakkımda
+
+Sakarya merkezli **Full Stack Developer**, amatör telsiz operatörü (**TB2ASJ**) ve teknoloji tutkunu. Yazılım geliştirme, drone programlama, yapay zeka ve gömülü sistemler alanlarında çalışıyorum.
+
+> *"Bugünün hayallerini yarının teknolojisine dönüştürüyorum."*
+
+---
+
+## 🛠️ Teknoloji Yığını
+
+<div align="center">
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 İlgi Alanları
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Robotics-Dark.svg" width="50" height="50"/>
+<br><strong>Robotik & Drone</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/2972/2972531.png" width="50" height="50"/>
+<br><strong>Amateur Radio</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="50" height="50"/>
+<br><strong>AI & ML</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="50" height="50"/>
+<br><strong>Cloud Systems</strong>
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub İstatistikleri
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8000ff&icon_color=8000ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=8000ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfarukkolbasar&theme=radical&hide_border=true&background=0d1117&stroke=8000ff&ring=8000ff&fire=ff6b6b&currStreakLabel=8000ff"/>
+</div>
+
+---
+
+## 🏆 GitHub Başarıları
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omerfarukkolbasar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+</div>
+
+---
+
+## 📊 Katkı Aktivitesi
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerfarukkolbasar&bg_color=0d1117&color=8000ff&line=8000ff&point=ff6b6b&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🌐 Bağlantılar
+
+<div align="center">
+  <a href="https://www.instagram.com/ofkcoolbsr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:contact@teymensel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/1067135718473863228" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://flexable.teymensel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Flexable-8000FF?style=for-the-badge&logo=link&logoColor=white" alt="Flexable"/>
+  </a>
+</div>
+
+---
+
+## 💡 Favori Projelerim
+
+<div align="center">
+  <a href="https://github.com/omerfarukkolbasar/flexable">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omerfarukkolbasar&repo=flexable&theme=radical&hide_border=true&bg_color=0d1117&title_color=8000ff&text_color=c9d1d9"/>
+  </a>
+</div>
+
+---
+
+## 🎵 Şu An Dinlediğim
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26pvkznxkzred5p4hbvthpq3a&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8000ff&bar_color_cover=false"/>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=8000ff&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Ömer+Faruk+Kolbasar+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8000ff&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!" alt="Footer"/>
 </div>
 
-<div align="center" style="margin:20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=omerfarukkolbasar&color=8000ff" alt="Profile Views" />
+<div align="center">
+  <sub>⭐ Bu repo'yu beğendiyseniz yıldızlamayı unutmayın!</sub>
 </div>
-
----
-
-### 🌐 Sosyal Medya & İletişim  
-<p align="center" style="gap:24px; display:flex; justify-content:center; flex-wrap:wrap;">
-  <a href="https://www.instagram.com/ofkcoolbsr" target="_blank" rel="noopener" title="Instagram">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40" alt="Instagram" />
-  </a>
-  <a href="mailto:contact@teymensel.com" target="_blank" rel="noopener" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28" />
-  </a>
-  <a href="https://discord.com/users/1067135718473863228" target="_blank" rel="noopener" title="Discord">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40" alt="Discord" />
-  </a>
-  <a href="https://flexable.teymensel.com" target="_blank" rel="noopener" title="Flexable">
-    <img src="https://img.shields.io/badge/Flexable-8000FF?style=flat&logo=azureai&logoColor=white" alt="Flexable" height="28" />
-  </a>
-</p>
-
----
-
-### 💻 Bildiğim Diller & Teknolojiler  
-<div align="center" style="line-height: 2; font-weight: 600; color: #8000ff; max-width: 600px; margin:auto; font-family: 'Fira Code', monospace;">
-  <p>JavaScript, TypeScript, React, Next.js, Flutter</p>
-  <p>PHP, ASP.NET, C#, C, Python</p>
-  <p>HTML, CSS, TailwindCSS, Node.js, Express</p>
-  <p>MongoDB, PostgreSQL, Redis, Docker, Git</p>
-</div>
-
-<div align="center" style="margin-top:12px;">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,php,aspnet,csharp,c,python,html,css,tailwind,nodejs,mongodb,postgres,docker,git" alt="Tech Icons" style="height:40px;"/>
-</div>
-
----
-
-### 🔭 İlgi Alanlarım  
-- 🤖 Robotik & Drone Kodlama  
-- 🛰️ Amatör Telsiz & Haberleşme  
-- ☁️ Yapay Zeka & Makine Öğrenimi  
-- 💻 Full Stack Web & Mobil Uygulama Geliştirme  
-- 🖥️ Sunucu Yönetimi & Bulut Sistemleri  
-
----
-
-### 📊 GitHub İstatistiklerim  
-<p align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfarukkolbasar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="320" />
-</p>
-
-<p align="center" style="margin-top:10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=omerfarukkolbasar&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🎮 Discord Durumum  
-<p align="center" style="max-width:500px; margin:auto;">
-  <a href="https://discord.com/users/1067135718473863228" target="_blank" rel="noopener">
-    <img src="https://lanyard.cnrad.dev/api/1067135718473863228?theme=dark&borderRadius=15px" alt="Discord Presence" style="width:100%; border-radius:15px;" />
-  </a>
-</p>
-
----
-
-<!-- Footer animasyonlu -->
-<p align="center" style="margin-top:40px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8000ff&center=true&vCenter=true&width=560&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+%C3%96mer+Faruk+Kolbasar" alt="Footer Text" style="border-radius:12px;padding:8px 20px;background:#f0e6ff;display:inline-block;" />
-</p>
