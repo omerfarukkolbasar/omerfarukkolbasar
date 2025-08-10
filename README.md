@@ -60,9 +60,9 @@ I work in software development, drone programming, artificial intelligence, and 
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=omerfarukkolbasar&show_icons=true&theme=tokyonight&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="GitHub Stats" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&theme=tokyonight&hide_border=true&layout=compact&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
