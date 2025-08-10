@@ -64,6 +64,7 @@ I work in software development, drone programming, artificial intelligence, and 
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukkolbasar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
+
 ---
 
 ## 📊 Contribution Activity
